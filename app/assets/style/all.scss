@@ -46,11 +46,11 @@ body{
 }
 .name{
   font-size: 80px;
-    line-height: 95px;
-    font-weight: 400;
-    border-bottom: 2px solid #000;
-    padding-top: 40px;
-    padding-bottom: 20px;
+  line-height: 95px;
+  font-weight: 400;
+  border-bottom: 2px solid #000;
+  padding-top: 40px;
+  padding-bottom: 20px;
 }
 img{
   vertical-align: middle;
@@ -83,7 +83,12 @@ img{
   margin: 0 auto;
   text-align-last: left;
   border-left: 1px solid #96A9C4;
-  padding-left: 23px;
+  padding-left: 24px;
+}
+.work ul{
+  border-left: 1px solid #96A9C4;
+  padding-left: 24px;
+  margin-left: 24px;
 }
 p{
   font-size: 20px;
@@ -143,6 +148,6 @@ h3{
 .text-color-1{
   color: #A00404;
 }
-.text-color-2{
+.text-white{
   color: #fff;
 }
