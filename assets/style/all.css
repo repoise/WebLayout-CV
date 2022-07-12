@@ -81,7 +81,12 @@ img {
   -moz-text-align-last: left;
        text-align-last: left;
   border-left: 1px solid #96A9C4;
-  padding-left: 23px; }
+  padding-left: 24px; }
+
+.work ul {
+  border-left: 1px solid #96A9C4;
+  padding-left: 24px;
+  margin-left: 24px; }
 
 p {
   font-size: 20px;
@@ -147,7 +152,7 @@ h3 {
 .text-color-1 {
   color: #A00404; }
 
-.text-color-2 {
+.text-white {
   color: #fff; }
 
 /*# sourceMappingURL=all.css.map */
